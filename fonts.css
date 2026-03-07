@@ -40,7 +40,7 @@ Fonts here are used by both the loc tool and the game.
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../fonts/AtariSmall-U--misaki_gothic--88Zen.ttf'); }
+@font-face { font-family: 'small_tight'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/AtariSmall-U--misaki_gothic--88Zen.ttf'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
 @font-face { font-family: 'small_harsh'; src: url('../fonts/5mikropix--misaki_gothic.ttf'); }
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
