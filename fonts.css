@@ -36,7 +36,7 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../fonts/MiniKylie-U--misaki_gothic.ttf'); }
+@font-face { font-family: 'tiny'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/MiniKylie-U--misaki_gothic.ttf'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
@@ -119,4 +119,5 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
