@@ -68,7 +68,7 @@ Fonts here are used by both the loc tool and the game.
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('../fonts/Resource-U--knj10.ttf'); }
+@font-face { font-family: 'large'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/Resource-U--knj10.ttf'); }
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /* 
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
