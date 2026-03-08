@@ -95,8 +95,8 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 @font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/sd_auto_pilot--BetinaScriptExtraCTT--nagurip.ttf'); }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
-/*---- passport countries -------------------------------------------------*/
-@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/v5loxical.ttf'); }
+/*---- passport countries - nonlt ------------------------------------------------*/
+@font-face { font-family: 'passport_arstotzka'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/v5loxical.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/Arial-Black.ttf'); }
 @font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}
 @font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
