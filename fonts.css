@@ -88,7 +88,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-title_serif { font-family: 'title_serif'; font-size: 10px; line-height: 10px; }
 
 /*---- cursive -------------------------------------------------*/
-@font-face { font-family: 'cursive'; src: url('../fonts/Bangalor-U--elisat10.ttf'); }
+@font-face { font-family: 'cursive'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/Bangalor-U--elisat10.ttf'); }
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- scribble -------------------------------------------------*/
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
