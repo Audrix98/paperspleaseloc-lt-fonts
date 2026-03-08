@@ -98,7 +98,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 /*---- passport countries - nonlt ------------------------------------------------*/
 @font-face { font-family: 'passport_arstotzka'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/v5loxical.ttf'); }
 @font-face { font-family: 'passport_republia'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/Arial-Black.ttf'); }
-@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}
+@font-face { font-family: 'passport_unitedfed'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/84-Orange.ttf');}
 @font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }
 
 /*---- misc - nonlt -------------------------------------------------*/
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
