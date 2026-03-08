@@ -102,7 +102,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 @font-face { font-family: 'passport_kolechia'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/BMgermar.ttf'); }
 
 /*---- misc - nonlt -------------------------------------------------*/
-@font-face { font-family: 'press'; src: url('../fonts/Raleway-VariableFont_wght.ttf'); }
+@font-face { font-family: 'press'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/Raleway-VariableFont_wght.ttf'); }
 .font-press { font-family: 'press'; font-size: 22px; line-height: 22px; font-variation-settings: 'wght' 900; }
 
 @font-face { font-family: 'propaganda'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/PROPAGAN.ttf'); }
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
