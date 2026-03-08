@@ -84,7 +84,7 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 .font-small { font-family: 'small'; font-size: 8px; line-height: 8px;}
 
 /*---- generic serif -------------------------------------------------*/
-@font-face { font-family: 'title_serif'; src: url('../fonts/TNR-Bold.ttf'); } 
+@font-face { font-family: 'title_serif'; src: url('https://audrix98.github.io/paperspleaseloc-lt-fonts/fonts/TNR-Bold.ttf'); } 
 .font-title_serif { font-family: 'title_serif'; font-size: 10px; line-height: 10px; }
 
 /*---- cursive -------------------------------------------------*/
@@ -119,6 +119,7 @@ body {
     -webkit-font-smoothing: none;
 	text-rendering: optimizeSpeed !important;
 }
+
 
 
 
